@@ -31,7 +31,7 @@ namespace crossPlatform.Droid
                 //button1.Text = string.Format ("{0} clicks!", count++);
                 if (Double.TryParse(editText1.Text,out d))
                 {
-                    textV1.Text = string.Format ("{0} clicks!", Calc.GetTax(d));
+                    textV1.Text = string.Format ("{0}円", Calc.GetTax(d));
 
                 }
             };
