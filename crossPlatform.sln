@@ -11,6 +11,8 @@ Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "crossPlatform", "crossPlatf
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		crossPlatform\crossPlatform\crossPlatform.projitems*{0008ea67-6e04-4b0b-b285-9c2d07be2e7e}*SharedItemsImports = 4
+		crossPlatform\crossPlatform\crossPlatform.projitems*{342dee44-6739-4166-8b51-2bd733e38653}*SharedItemsImports = 4
 		crossPlatform\crossPlatform\crossPlatform.projitems*{87f207f2-9f13-4d2e-ac34-9c08cfd6336d}*SharedItemsImports = 13
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
